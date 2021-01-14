@@ -1,4 +1,4 @@
-# e-commerce project with javascript
+## e-commerce project with javascript
 
 > back-end of an ecommerce app built on a course at Udemy.
 
